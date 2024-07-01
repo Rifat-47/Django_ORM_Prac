@@ -1,0 +1,4 @@
+here, I have learned and studied "python api"
+
+reference:
+https://docs.djangoproject.com/en/5.0/topics/db/queries/#top
